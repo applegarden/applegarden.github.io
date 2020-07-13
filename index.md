@@ -1,12 +1,10 @@
 ## MAGIC RINGTONE PRIVACY POLICY
 1. PERSONAL INFORMATION COLLECTED
-
 1.1 Magic Ringtone does not collect or share your any information to anyone.
 
 
 
 2. Why Magic Ringtone aplly some sensitive permissions?
-
 2.1  Magic Ringtone applies READ_CALL_LOG permission
 Magic Ringtone applies this permission to Distinguish between incoming call or out call.So when you call out, Magic Ringtone will not change your ringtone.Only  when you receive a call,Magic Ringtone will change your ringtone if you have set the function in app.But Magic Ringtone will never collect the call logs.
 
