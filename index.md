@@ -18,7 +18,7 @@
 
     2.3  READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE permission
     
-    Magic Ringtone applies theses permissions to copy audo files to your Ringtones folder in your device. So the ringtones will be useful even you reboot your           device.Magic Ringtone does not create any unnecessary files in your device by using WRITE_EXTERNAL_STORAGE permission.
+    Magic Ringtone applies theses permissions to copy audio files to your Ringtones folder in your device. So the ringtones will be useful even you reboot your           device.Magic Ringtone does not create any unnecessary files in your device by using WRITE_EXTERNAL_STORAGE permission.
     
 3. How to contact Magic Ringtone
 
