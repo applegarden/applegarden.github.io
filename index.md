@@ -1,6 +1,9 @@
 ## MAGIC RINGTONE PRIVACY POLICY
 1. PERSONAL INFORMATION COLLECTED
+
 1.1 Magic Ringtone does not collect or share your any information to anyone.
+
+
 
 2. Why Magic Ringtone aplly some sensitive permissions?
 
