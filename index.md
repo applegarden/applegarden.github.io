@@ -2,7 +2,7 @@
 
 1. PERSONAL INFORMATION COLLECTED
 
-    1.1 Magic Ringtone does not collect or share your any information to anyone.
+    Magic Ringtone does not collect or share your any information to anyone.
 
 
 
@@ -19,6 +19,7 @@
     Magic Ringtone does not create any garbage files in your device.
     
 3. How to contact Magic Ringtone
+
     Magic Ringtone attaches great importance to user privacy protection.You can contact us if you have any questions or suggestions about this Policy.
     E-mail：zxwzxt@gmail.com
 
