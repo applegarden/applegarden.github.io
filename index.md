@@ -17,4 +17,8 @@
     2.3  Magic Ringtone applies READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE, permission
     Magic Ringtone applies theses permissions to copy audo files to your Ringtones folder in your device. So the ringtones will be useful even you reboot your      device.
     Magic Ringtone does not create any garbage files in your device.
+    
+3. How to contact Magic Ringtone
+    Magic Ringtone attaches great importance to user privacy protection.You can contact us if you have any questions or suggestions about this Policy.
+    E-mail：zxwzxt@gmail.com
 
