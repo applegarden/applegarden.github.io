@@ -7,7 +7,7 @@
 
 2. Why Magic Ringtone aplly some permissions?
 
-    2.1 READ_PHONE_STATE persmiss
+    2.1 READ_PHONE_STATE persmisson
     
     Magic Ringtone applies this permission to know what the call state is so the app will be ready to change your ringtone according the call state.
 
